@@ -11,6 +11,7 @@ from scipy import spatial
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
 
+
 if st.session_state['logged_in'] == "false" or 'logged_in' not in st.session_state:
     st.write("You are not logged in, Please head back to main page to log in")
     st.write("Redirecting...")
