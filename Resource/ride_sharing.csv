@@ -1,0 +1,51 @@
+id,first_name,last_name,lat,long,day,departure time,return time,preference,email,password,phone
+1,Pulkit,Saharan,47.6150,-122.3515,Monday,10,14,walk,Pulkit.Saharan@northeastern.edu,Pulkit.S,1239087451
+2,Shivani,Naik,47.6250,-122.1333,Monday,10,14,Public Transport,Shivani.Naik@northeastern.edu,Shivani.,3218793214
+3,Viraj,Sharma,47.6150,-122.3515,Tuesday,11,15,walk,Viraj.Sharma@northeastern.edu,Viraj.Sh,9084351087
+4,Jiajie,Li,47.6157,-122.3409,Monday,10,14,Public Transport,Jiajie.Li@northeastern.edu,Jiajie.L,7064539087
+5,Harshit,Sharma,47.6262,-122.3477,Tuesday,8,16,walk,Harshit.Sharma@northeastern.edu,Harshit.,2065743012
+6,Shivani,Naik,47.6250,-122.1333,Tuesday,13,17,Public Transport,Shivani.Naik@northeastern.edu,Shivani.,3218793214
+7,Shivani,Naik,47.6250,-122.1333,Thursday,18,21,car,Shivani.Naik@northeastern.edu,Shivani.,3218793214
+8,Shivani,Naik,47.6250,-122.1333,Friday,14,17,car,Shivani.Naik@northeastern.edu,Shivani.,3218793214
+9,Viraj,Sharma,47.6150,-122.3515,Friday,14,17,bike,Viraj.Sharma@northeastern.edu,Viraj.Sh,9084351087
+10,Viraj,Sharma,47.6150,-122.3515,Monday,15,18,walk,Viraj.Sharma@northeastern.edu,Viraj.Sh,9084351087
+11,Jiajie,Li,47.6157,-122.3409,Thursday,13,17,car,Jiajie.Li@northeastern.edu,Jiajie.L,7064539087
+12,Harshit,Sharma,47.6262,-122.3477,Monday,12,20,walk,Harshit.Sharma@northeastern.edu,Harshit.,2065743012
+13,Harshit,Sharma,47.6262,-122.3477,Tuesday,8,16,walk,Harshit.Sharma@northeastern.edu,Harshit.,2065743012
+14,Harshit,Sharma,47.6262,-122.3477,Friday,10,17,walk,Harshit.Sharma@northeastern.edu,Harshit.,2065743012
+15,Pulkit,Saharan,47.6150,-122.3515,Friday,11,18,walk,Pulkit.Saharan@northeastern.edu,Pulkit.S,1239087451
+16,Pulkit,Saharan,47.6150,-122.3515,Thursday,12,17,Public Transport,Pulkit.Saharan@northeastern.edu,Pulkit.S,1239087451
+17,Pulkit,Saharan,47.6150,-122.3515,Tuesday,11,15,walk,Pulkit.Saharan@northeastern.edu,Pulkit.S,1239087451
+18,Jiajie,Li,47.6157,-122.3409,Tuesday,13,16,car,Jiajie.Li@northeastern.edu,Jiajie.L,7064539087
+19,Jiajie,Li,47.6157,-122.3409,Friday,11,16,walk,Jiajie.Li@northeastern.edu,Jiajie.L,7064539087
+20,Shangli,Yu,47.6203,-122.1914,Monday,13,16,car,Shangli.Yu@northeastern.edu,Shangli.,9086051342
+21,Shangli,Yu,47.6203,-122.1914,Tuesday,10,17,car,Shangli.Yu@northeastern.edu,Shangli.,9086051342
+22,Shangli,Yu,47.6203,-122.1914,Friday,16,21,car,Shangli.Yu@northeastern.edu,Shangli.,9086051342
+23,Shruti,Agrawal,47.6168,-122.3525,Monday,12,16,walk,Shruti.Agrawal@northeastern.edu,Shruti.A,4254658876
+24,Shruti,Agrawal,47.6168,-122.3525,Tuesday,11,16,walk,Shruti.Agrawal@northeastern.edu,Shruti.A,4254658876
+25,Shruti,Agrawal,47.6168,-122.3525,Thursday,18,21,car,Shruti.Agrawal@northeastern.edu,Shruti.A,4254658876
+26,Shruti,Agrawal,47.6168,-122.3525,Friday,14,17,walk,Shruti.Agrawal@northeastern.edu,Shruti.A,4254658876
+27,Anuya,Somani,47.6164,-122.3534,Saturday,9,12,car,Anuya.Somani@northeastern.edu,Anuya.So,9753420987
+28,Anuya,Somani,47.6164,-122.3534,Sunday,9,12,car,Anuya.Somani@northeastern.edu,Anuya.So,9753420987
+29,Ankit,Sharma,47.6197,-122.3465,Thursday,8,16,walk,Ankit.Sharma@northeastern.edu,Ankit.Sh,2109874321
+30,Ankit,Sharma,47.6197,-122.3465,Friday,12,16,walk,Ankit.Sharma@northeastern.edu,Ankit.Sh,2109874321
+31,Ankit,Sharma,47.6197,-122.3465,Moday,12,20,bike,Ankit.Sharma@northeastern.edu,Ankit.Sh,2109874321
+32,Ankit,Sharma,47.6197,-122.3465,Tuesday,8,12,bike,Ankit.Sharma@northeastern.edu,Ankit.Sh,2109874321
+33,Niddhi,Dahiya,47.6151,-122.3400,Wednesday,9,13,walk,Niddhi.Dahiya@northeastern.edu,Niddhi.D,8740983210
+34,Niddhi,Dahiya,47.6151,-122.3400,Tuesday,13,18,walk,Niddhi.Dahiya@northeastern.edu,Niddhi.D,8740983210
+35,Niddhi,Dahiya,47.6151,-122.3400,Thursday,18,21,walk,Niddhi.Dahiya@northeastern.edu,Niddhi.D,8740983210
+36,Jiajie,Li,47.6157,-122.3409,Wednesday,9,15,car,Jiajie.Li@northeastern.edu,Jiajie.L,7064539087
+37,Jiajie,Li,47.6157,-122.3409,Saturday,11,16,car,Jiajie.Li@northeastern.edu,Jiajie.L,7064539087
+38,Jyoti,B,47.6183,-122.1373,Monday,11,15,Public Transport,Jyoti.B@northeastern.edu,Jyoti.B@,2065438890
+39,Jyoti,B,47.6183,-122.1373,Tuesday,18,21,car,Jyoti.B@northeastern.edu,Jyoti.B@,2065438890
+40,Jyoti,B,47.6183,-122.1373,Thursday,9,13,Public Transport,Jyoti.B@northeastern.edu,Jyoti.B@,2065438890
+41,Jyoti,B,47.6183,-122.1373,Friday,17,21,car,Jyoti.B@northeastern.edu,Jyoti.B@,2065438890
+42,Sanchana,Mohankumar,47.6052,-122.1283,Monday,8,14,Public Transport,Sanchana.Mohankumar@northeastern.edu,Sanchana,2065546786
+43,Sanchana,Mohankumar,47.6052,-122.1283,Tuesday,8,12,Public Transport,Sanchana.Mohankumar@northeastern.edu,Sanchana,2065546786
+44,Sanchana,Mohankumar,47.6052,-122.1283,Thursday,18,20,Public Transport,Sanchana.Mohankumar@northeastern.edu,Sanchana,2065546786
+45,Sanchana,Mohankumar,47.6052,-122.1283,Friday,13,17,Public Transport,Sanchana.Mohankumar@northeastern.edu,Sanchana,2065546786
+46,Anu,Joshi,47.5861,-122.2322,Monday,9,11,Public Transport,Anu.Joshi@northeastern.edu,Anu.Josh,2065409574
+47,Anu,Joshi,47.5861,-122.2322,Tuesday,11,14,Public Transport,Anu.Joshi@northeastern.edu,Anu.Josh,2065409574
+48,Anu,Joshi,47.5861,-122.2322,Thursday,18,21,Public Transport,Anu.Joshi@northeastern.edu,Anu.Josh,2065409574
+49,Anu,Joshi,47.5861,-122.2322,Friday,15,17,car,Anu.Joshi@northeastern.edu,Anu.Josh,2065409574
+50,Ankit,Sharma,47.6197,-122.3465,Wednesday,16,20,walk,Ankit.Sharma@northeastern.edu,Ankit.Sh,2109874321
